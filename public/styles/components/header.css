@@ -1,0 +1,11 @@
+/* Knopki zareg and voyti */
+.auth-buttons a{
+    text-decoration: none;
+}
+
+/*  */
+.header {
+    background-color: aqua;
+    font-size: 100px;
+    display: flex;
+}
